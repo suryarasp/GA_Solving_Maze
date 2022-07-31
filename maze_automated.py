@@ -28,7 +28,7 @@ PLAYER_SPEED = 44 #num of pixels the player moves, leave it at 44
 MOVE_OPTIONS = np.array(["right", "left", "up", "down"])
 DEAD_END_PENALTY = 200
 MADEIT_THRESH = 0 # Put zero if only one duck will do
-QUACKS_FILEPATH = "C:/Users/Justi/PycharmProjects/maze/duck_sounds"
+QUACKS_FILEPATH = "C:/Users/surya/OneDrive/codes/GA"
 GENERATION_THRESH=50
 FPS = 26
 
